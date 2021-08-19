@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\WhiteHat Jr\\world-hardest-game-main"
+		},
+		{
+			"path": "..\\WhiteHat Jr"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "world-hardest-game-main"
+	}
+}
